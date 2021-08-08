@@ -24,3 +24,4 @@ This is the API endpoint to get the forecast:
 2. Use the API to get the JSON and loop it to display the forecast.
 3. For your convenience, there is an `icons` directory with the images of all days.
 4. Please note, that the API doesn't give you the day of the week in a text format. Instead, it provides the number of the day of the week (0-6). Sunday is 0, Saturday is 6. You will have to format it by yourself.
+# weather-app
